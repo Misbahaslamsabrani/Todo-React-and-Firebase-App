@@ -1,0 +1,10 @@
+.form_bu{
+    margin: 3% 0 3% 0;
+}
+.form_a{
+    cursor: pointer;
+}
+
+.text{
+    text-transform: capitalize !important
+}
